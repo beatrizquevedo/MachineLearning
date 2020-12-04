@@ -1,2 +1,2 @@
 # MachineLearning
-Esta es la entrega del lab00.
+Esta es la entrega de los trabajos.
